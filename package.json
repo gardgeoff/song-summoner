@@ -1,0 +1,17 @@
+{
+  "name": "song-summoner",
+  "version": "1.0.0",
+  "description": "Discord Bot Plays Songs",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Cole Essig & Geoff Gard",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
